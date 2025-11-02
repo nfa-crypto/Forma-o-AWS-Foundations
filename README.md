@@ -1,1 +1,0 @@
-# Forma-o-AWS-Foundations
